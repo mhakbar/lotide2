@@ -34,3 +34,5 @@ return consol.log(results);     /////console logging so to see the actual result
 
 countLetters("lighthouse in the house");
 countLetters('LHL');
+
+module.exports = countLetters;
